@@ -29,7 +29,7 @@
     "eslint-plugin-babel": "2.x.x"
   },
   "dependencies": {
-    "lodash": "3.x.x"
+    "lodash": "4.17.5"
   },
   "peerDependencies": {
     "graphql": "0.4.x"
